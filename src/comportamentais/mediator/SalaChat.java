@@ -1,4 +1,4 @@
-package comportamentais.Mediator;
+package comportamentais.mediator;
 
 public class SalaChat {
 

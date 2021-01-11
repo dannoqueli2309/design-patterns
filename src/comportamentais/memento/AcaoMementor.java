@@ -1,4 +1,4 @@
-package comportamentais.Memento;
+package comportamentais.memento;
 
 public class AcaoMementor {
 
