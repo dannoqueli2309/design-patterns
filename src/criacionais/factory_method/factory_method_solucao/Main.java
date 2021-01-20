@@ -7,7 +7,7 @@ public class Main {
   private static Transport transport;
 
   public static void main(String[] args) {
-    configure(args[0]);
+    configure("");
     if (nonNull(transport)) {
       runTransport();
     }
