@@ -4,6 +4,9 @@ public class SingletonRun {
 
   public static void main(String[] args) {
     new SingletonRun().criarConta();
+    Janela instance = Janela.getInstance();
+    Janela instance1 = Janela.getInstance();
+
   }
 
   public void criarConta() {
