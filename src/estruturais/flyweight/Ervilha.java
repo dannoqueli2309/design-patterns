@@ -1,4 +1,4 @@
-package estruturais.flyweight;
+package  flyweight;
 
 public interface Ervilha {
 

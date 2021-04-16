@@ -1,4 +1,4 @@
-package comportamentais.strategy;
+package    strategy;
 
 public class MeuArray {
 

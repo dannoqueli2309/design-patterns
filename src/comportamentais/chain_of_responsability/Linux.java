@@ -1,4 +1,4 @@
-package comportamentais.chain_of_responsability;
+package    chain_of_responsability;
 
 public class Linux implements Rede {
 

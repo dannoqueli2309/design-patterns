@@ -1,6 +1,6 @@
-package estruturais.adapter.adapter_solucao.paypal;
+package  adapter.adapter_solucao.paypal;
 
-import estruturais.adapter.adapter_solucao.utils.Token;
+import  adapter.adapter_solucao.utils.Token;
 
 public class PayPal implements PayPalPayments {
 

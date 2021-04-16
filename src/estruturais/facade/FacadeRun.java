@@ -1,4 +1,4 @@
-package estruturais.facade;
+package  facade;
 
 public class FacadeRun {
 

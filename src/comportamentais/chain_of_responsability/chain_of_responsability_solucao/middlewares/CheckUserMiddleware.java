@@ -1,6 +1,6 @@
-package comportamentais.chain_of_responsability.chain_of_responsability_solucao.middlewares;
+package    chain_of_responsability.chain_of_responsability_solucao.middlewares;
 
-import comportamentais.chain_of_responsability.chain_of_responsability_solucao.server.Server;
+import    chain_of_responsability.chain_of_responsability_solucao.server.Server;
 
 public class CheckUserMiddleware extends Middleware {
 

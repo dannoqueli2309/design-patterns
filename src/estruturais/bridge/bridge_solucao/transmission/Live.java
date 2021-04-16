@@ -1,6 +1,6 @@
-package estruturais.bridge.bridge_solucao.transmission;
+package  bridge.bridge_solucao.transmission;
 
-import estruturais.bridge.bridge_solucao.platfoms.Platform;
+import  bridge.bridge_solucao.platfoms.Platform;
 
 public class Live implements Transmission {
 

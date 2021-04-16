@@ -1,4 +1,4 @@
-package comportamentais.chain_of_responsability;
+package    chain_of_responsability;
 
 import static java.util.Objects.nonNull;
 

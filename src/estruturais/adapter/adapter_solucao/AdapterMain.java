@@ -1,8 +1,8 @@
-package estruturais.adapter.adapter_solucao;
+package  adapter.adapter_solucao;
 
-import estruturais.adapter.adapter_solucao.adapters.MercadoLivreAdapter;
-import estruturais.adapter.adapter_solucao.mercado_pago.MercadoPago;
-import estruturais.adapter.adapter_solucao.paypal.PayPalPayments;
+import  adapter.adapter_solucao.adapters.MercadoLivreAdapter;
+import  adapter.adapter_solucao.mercado_pago.MercadoPago;
+import  adapter.adapter_solucao.paypal.PayPalPayments;
 
 public class AdapterMain {
 

@@ -1,4 +1,4 @@
-package comportamentais.template_method;
+package    template_method;
 
 public class ItemRaro extends Item {
 

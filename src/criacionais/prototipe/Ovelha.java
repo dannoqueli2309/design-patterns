@@ -1,4 +1,4 @@
-package criacionais.prototipe;
+package   prototipe;
 
 public class Ovelha implements Cloneable {
 

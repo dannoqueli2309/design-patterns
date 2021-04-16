@@ -1,13 +1,13 @@
-package estruturais.bridge.bridge_solucao;
+package  bridge.bridge_solucao;
 
-import estruturais.bridge.bridge_solucao.platfoms.DisneyPlus;
-import estruturais.bridge.bridge_solucao.platfoms.Facebook;
-import estruturais.bridge.bridge_solucao.platfoms.Platform;
-import estruturais.bridge.bridge_solucao.platfoms.TwitchTv;
-import estruturais.bridge.bridge_solucao.platfoms.YouTube;
-import estruturais.bridge.bridge_solucao.transmission.AdvancedLive;
-import estruturais.bridge.bridge_solucao.transmission.Live;
-import estruturais.bridge.bridge_solucao.transmission.RecordLive;
+import  bridge.bridge_solucao.platfoms.DisneyPlus;
+import  bridge.bridge_solucao.platfoms.Facebook;
+import  bridge.bridge_solucao.platfoms.Platform;
+import  bridge.bridge_solucao.platfoms.TwitchTv;
+import  bridge.bridge_solucao.platfoms.YouTube;
+import  bridge.bridge_solucao.transmission.AdvancedLive;
+import  bridge.bridge_solucao.transmission.Live;
+import  bridge.bridge_solucao.transmission.RecordLive;
 
 public class Main {
 

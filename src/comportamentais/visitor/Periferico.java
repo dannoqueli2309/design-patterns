@@ -1,4 +1,4 @@
-package comportamentais.visitor;
+package    visitor;
 
 public class Periferico implements ParteComp {
 

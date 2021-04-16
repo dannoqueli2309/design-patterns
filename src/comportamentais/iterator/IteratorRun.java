@@ -1,4 +1,4 @@
-package comportamentais.iterator;
+package    iterator;
 
 /// O iterator ajuda a percorrer os laços de repetição de forma mais segura e Controlada
 public class IteratorRun {

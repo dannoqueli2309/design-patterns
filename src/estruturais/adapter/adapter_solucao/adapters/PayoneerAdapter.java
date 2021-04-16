@@ -1,8 +1,8 @@
-package estruturais.adapter.adapter_solucao.adapters;
+package  adapter.adapter_solucao.adapters;
 
-import estruturais.adapter.adapter_solucao.payoneer.Payoneer;
-import estruturais.adapter.adapter_solucao.paypal.PayPalPayments;
-import estruturais.adapter.adapter_solucao.utils.Token;
+import  adapter.adapter_solucao.payoneer.Payoneer;
+import  adapter.adapter_solucao.paypal.PayPalPayments;
+import  adapter.adapter_solucao.utils.Token;
 
 public class PayoneerAdapter implements PayPalPayments {
 

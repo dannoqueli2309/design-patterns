@@ -1,4 +1,4 @@
-package comportamentais.iterator;
+package    iterator;
 
 public class IteratorImpl<T> implements Iterator {
 

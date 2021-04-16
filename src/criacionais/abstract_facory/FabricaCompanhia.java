@@ -1,4 +1,4 @@
-package criacionais.abstract_facory;
+package abstract_facory;
 
 class FabricaCompanhia implements Modelo{
   public Cachorro getCachorro(){

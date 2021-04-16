@@ -1,6 +1,6 @@
-package estruturais.adapter.adapter_solucao.payoneer;
+package  adapter.adapter_solucao.payoneer;
 
-import estruturais.adapter.adapter_solucao.utils.Token;
+import  adapter.adapter_solucao.utils.Token;
 
 public interface PayonnerPayment {
 

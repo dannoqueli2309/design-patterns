@@ -1,4 +1,4 @@
-package estruturais.proxy;
+package  proxy;
 
 public class ProxyRun {
 

@@ -1,4 +1,4 @@
-package estruturais.composite;
+package  composite;
 
 public class MenuItem extends MenuComponente {
 

@@ -1,4 +1,4 @@
-package criacionais.abstract_facory;
+package   abstract_facory;
 
 public interface Modelo{
   Cachorro getCachorro();

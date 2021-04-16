@@ -1,4 +1,4 @@
-package comportamentais.memento;
+package    memento;
 
 /**
  * O Padrão mementor Serve para guardar estado do objeto para que seja possivel voltar para o objeto

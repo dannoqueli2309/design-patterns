@@ -1,4 +1,4 @@
-package comportamentais.observer;
+package    observer;
 
 // O Padão observer serve para avisar para um determinado objeto mudou de estado
 public class ObserverRun {
