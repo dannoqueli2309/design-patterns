@@ -1,6 +1,6 @@
-package comportamentais.chain_of_responsability.chain_of_responsability_solucao.server;
+package    chain_of_responsability.chain_of_responsability_solucao.server;
 
-import comportamentais.chain_of_responsability.chain_of_responsability_solucao.middlewares.Middleware;
+import    chain_of_responsability.chain_of_responsability_solucao.middlewares.Middleware;
 import java.util.HashMap;
 import java.util.Map;
 

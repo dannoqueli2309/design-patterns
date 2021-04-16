@@ -1,4 +1,4 @@
-package comportamentais.command;
+package    command;
 
 public class TvAumVolCommand implements Command {
 

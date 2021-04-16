@@ -1,4 +1,4 @@
-package comportamentais.visitor;
+package    visitor;
 
 public interface ParteComp {
   void adicionar(ParteVisitor parteVisitor);

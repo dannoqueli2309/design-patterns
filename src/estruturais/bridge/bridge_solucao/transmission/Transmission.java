@@ -1,4 +1,4 @@
-package estruturais.bridge.bridge_solucao.transmission;
+package  bridge.bridge_solucao.transmission;
 
 public interface Transmission {
   void broadCasting();

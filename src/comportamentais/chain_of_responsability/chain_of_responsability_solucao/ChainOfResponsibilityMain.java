@@ -1,9 +1,9 @@
-package comportamentais.chain_of_responsability.chain_of_responsability_solucao;
+package    chain_of_responsability.chain_of_responsability_solucao;
 
-import comportamentais.chain_of_responsability.chain_of_responsability_solucao.middlewares.CheckRolePermission;
-import comportamentais.chain_of_responsability.chain_of_responsability_solucao.middlewares.CheckUserMiddleware;
-import comportamentais.chain_of_responsability.chain_of_responsability_solucao.middlewares.Middleware;
-import comportamentais.chain_of_responsability.chain_of_responsability_solucao.server.Server;
+import    chain_of_responsability.chain_of_responsability_solucao.middlewares.CheckRolePermission;
+import    chain_of_responsability.chain_of_responsability_solucao.middlewares.CheckUserMiddleware;
+import    chain_of_responsability.chain_of_responsability_solucao.middlewares.Middleware;
+import    chain_of_responsability.chain_of_responsability_solucao.server.Server;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

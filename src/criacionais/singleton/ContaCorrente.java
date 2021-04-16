@@ -1,4 +1,4 @@
-package criacionais.singleton;
+package   singleton;
 
 import static java.util.Objects.isNull;
 

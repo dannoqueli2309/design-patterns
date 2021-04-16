@@ -1,4 +1,4 @@
-package criacionais.singleton;
+package   singleton;
 
 public class SingletonRun {
 

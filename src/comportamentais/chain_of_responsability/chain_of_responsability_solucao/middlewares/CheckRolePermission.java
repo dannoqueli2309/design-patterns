@@ -1,4 +1,4 @@
-package comportamentais.chain_of_responsability.chain_of_responsability_solucao.middlewares;
+package    chain_of_responsability.chain_of_responsability_solucao.middlewares;
 
 public class CheckRolePermission extends Middleware {
 

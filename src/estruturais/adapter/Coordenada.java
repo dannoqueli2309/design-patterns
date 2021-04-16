@@ -1,4 +1,4 @@
-package estruturais.adapter;
+package  adapter;
 
 public class Coordenada {
 

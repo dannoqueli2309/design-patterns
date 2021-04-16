@@ -1,4 +1,4 @@
-package estruturais.adapter.adapter_solucao.utils;
+package  adapter.adapter_solucao.utils;
 
 public class Token {
 

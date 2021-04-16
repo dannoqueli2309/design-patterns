@@ -1,4 +1,4 @@
-package estruturais.composite;
+package  composite;
 
 import static java.util.Objects.nonNull;
 

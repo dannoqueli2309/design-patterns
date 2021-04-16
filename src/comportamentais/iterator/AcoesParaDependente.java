@@ -1,4 +1,4 @@
-package comportamentais.iterator;
+package    iterator;
 
 import static java.util.Objects.isNull;
 import static java.util.Objects.nonNull;

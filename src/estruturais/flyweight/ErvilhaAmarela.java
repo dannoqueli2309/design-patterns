@@ -1,4 +1,4 @@
-package estruturais.flyweight;
+package  flyweight;
 
 public class ErvilhaAmarela extends ErvilhaDecorator {
 

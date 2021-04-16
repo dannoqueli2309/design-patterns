@@ -1,4 +1,4 @@
-package comportamentais.visitor;
+package    visitor;
 
 public interface ParteVisitor {
   void visit(Cpu cpu);

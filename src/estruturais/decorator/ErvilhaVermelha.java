@@ -1,4 +1,4 @@
-package estruturais.decorator;
+package  decorator;
 
 public class ErvilhaVermelha extends ErvilhaDecorator {
 

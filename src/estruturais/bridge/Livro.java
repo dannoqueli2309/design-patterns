@@ -1,4 +1,4 @@
-package estruturais.bridge;
+package  bridge;
 
 public class Livro extends BridgePublicacao {
 

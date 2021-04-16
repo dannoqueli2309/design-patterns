@@ -1,4 +1,4 @@
-package comportamentais.interpreter;
+package    interpreter;
 
 public class ExpressaoOu implements Expressao {
 

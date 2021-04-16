@@ -1,4 +1,4 @@
-package comportamentais.mediator;
+package    mediator;
 
 public class Usuario {
 

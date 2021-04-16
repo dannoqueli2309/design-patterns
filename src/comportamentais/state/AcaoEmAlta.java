@@ -1,4 +1,4 @@
-package comportamentais.state;
+package    state;
 
 public class AcaoEmAlta implements State {
 

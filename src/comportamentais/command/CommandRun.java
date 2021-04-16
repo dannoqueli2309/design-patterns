@@ -1,4 +1,4 @@
-package comportamentais.command;
+package    command;
 
 import java.util.Scanner;
 
